@@ -9,7 +9,7 @@ Here are some ideas to get you started:
 - 📃 I regularly write Articles on [Hashnode](https://hashnode.com/@amitmau07).
 - 💬 Ask me about DevOps, AWS, Docker, Jenkins, CI/CD, Linux, Bash, Shell, Vagrant.
 - 📫 Reach out to me at [Email](ammaurya0712@gmail.com) , [Twitter](https://twitter.com/amitmau07) , [Linkedin](https://www.linkedin.com/in/amit-maurya07/)
--  Pronouns: Mr
+-  Pronouns: He, Him
 ---
 ### 💻 My Tech Stack :
 <div>
@@ -26,13 +26,25 @@ Here are some ideas to get you started:
   </div>
   
   ---
+  
+### Connect with me:
+
+<div id="badges">
+  <a href="www.linkedin.com/in/amit-maurya07">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Social"/>
+  </a>
+  <a href="(https://twitter.com/amitmau07)">
+    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Social"/>
+  </a>
+</div>
+
+---
+
+
   ### :fire: GitHub Stats :
   [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=amitmaurya07&theme=merko)](https://git.io/streak-stats)
   
   ---
-  <!-- HASHNODE:START -->
-  <!-- HASHNODE:END -->
-  ### :writing_hand: Latest Blog Posts :
-  <!-- BLOGPOSTS:START -->
-  <!-- BLOGPOSTS:END -->
+  
+ 
 
